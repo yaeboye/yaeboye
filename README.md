@@ -62,7 +62,7 @@ Privacy-first hostel security system. YOLOv8 tells people from animals, OpenCV d
 </td>
 <td width="50%" valign="top">
 
-**🚉 Railway Crowd Management with RL** · *research*<br/>
+**[🚉 Railway Crowd Management with RL](https://github.com/yaeboye/railway-crowd-rl)** · *research*<br/>
 Code for the paper *Reinforcement Learning for AI-Based Railway Platform Crowd Management*. It simulates a platform and compares Q-Learning, SARSA, Double DQN and PPO. PPO beats the tuned expert rule, and a safety layer cuts crush episodes from 27.5% to ≤2.5% under overload.<br/>
 `Python` `PPO` `DQN` `Simulation`
 
@@ -72,8 +72,8 @@ Code for the paper *Reinforcement Learning for AI-Based Railway Platform Crowd M
 <td width="50%" valign="top">
 
 **[🛰️ CyberTrace](https://github.com/yaeboye/CyberTrace)**<br/>
-Side-channel attack and defense framework for embedded cyber-physical (CPS) devices, covering several attack vectors.<br/>
-`Python` `Security`
+Hardware side-channel lab on ESP32-S3 boards running ChaCha20 and CRYSTALS-Kyber. A **Raspberry Pi** reads power traces through an ADS1115 ADC and runs correlation power analysis (CPA), timing and replay attacks. It also has defenses (masking, constant-time code, nonces, probe detection), a FastAPI backend and a React dashboard.<br/>
+`Python` `Raspberry Pi` `ESP32` `Post-quantum crypto`
 
 </td>
 <td width="50%" valign="top">
@@ -87,21 +87,12 @@ Document signing system with BLAKE2-M + ECDSA P-256 written from scratch. It tie
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Cognitive Assistance Device** · *hardware prototype*<br/>
-Raspberry Pi 5 assistant with offline voice memory (whisper.cpp STT → SQLite → TTS), GPS geofencing that sounds buzzer/LED alerts, and a Flask caregiver dashboard that queues data offline and syncs later.<br/>
-`Python` `Raspberry Pi` `IoT`
-
-</td>
-<td width="50%" valign="top">
-
 **[🛡️ Darkwave-CyberGuard](https://github.com/yaeboye/Darkwave-CyberGuard)**<br/>
 Security toolkit: password strength checker, generator and manager, plus hashing, encryption/decryption, threat detection and security guides.<br/>
 `TypeScript` `React` `Supabase`
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 **[🎉 Weekend Walla](https://github.com/yaeboye/cityspark-events)**<br/>
 Finds weekend events across Indian cities.<br/>
