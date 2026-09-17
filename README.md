@@ -17,7 +17,7 @@
 - 💼 **Software Development Engineer (intern) at [Interioring](https://interioring.com)**, a marketplace connecting Indian homeowners with interior design pros
 - 🛤️ My path: **Manual QA → Test Automation → SDE**
 - 🧩 Now I ship full-stack features across the Hono API on Cloudflare Workers, the Astro marketplace and the React portal
-- 🔐 On the side: **security research** (side-channel attacks, signature schemes written from scratch)
+- 🔐 On the side: **security & AI research**: side-channel attacks, cryptography from scratch, computer-vision surveillance, and reinforcement learning
 
 ### 🏆 Journey at Interioring
 
@@ -55,6 +55,22 @@
 <tr>
 <td width="50%" valign="top">
 
+**[📹 AI Intrusion & Activity Monitoring](https://github.com/ananyasinghz/AI_Intrusion)** · *team project*<br/>
+Privacy-first hostel security system. YOLOv8 tells people from animals, OpenCV detects motion, and people are blurred before any snapshot is saved. Also has loitering and tripwire alerts, Telegram alerts, and a FastAPI + React dashboard. I built the admin **natural-language data assistant** (Groq LLM → safe SQLAlchemy filters).<br/>
+`Python` `YOLOv8` `FastAPI` `React`
+
+</td>
+<td width="50%" valign="top">
+
+**🚉 Railway Crowd Management with RL** · *research*<br/>
+Code for the paper *Reinforcement Learning for AI-Based Railway Platform Crowd Management*. It simulates a platform and compares Q-Learning, SARSA, Double DQN and PPO. PPO beats the tuned expert rule, and a safety layer cuts crush episodes from 27.5% to ≤2.5% under overload.<br/>
+`Python` `PPO` `DQN` `Simulation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[🛰️ CyberTrace](https://github.com/yaeboye/CyberTrace)**<br/>
 Side-channel attack and defense framework for embedded cyber-physical (CPS) devices, covering several attack vectors.<br/>
 `Python` `Security`
@@ -69,11 +85,27 @@ Document signing system with BLAKE2-M + ECDSA P-256 written from scratch. It tie
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+**🧠 Cognitive Assistance Device** · *hardware prototype*<br/>
+Raspberry Pi 5 assistant with offline voice memory (whisper.cpp STT → SQLite → TTS), GPS geofencing that sounds buzzer/LED alerts, and a Flask caregiver dashboard that queues data offline and syncs later.<br/>
+`Python` `Raspberry Pi` `IoT`
+
+</td>
+<td width="50%" valign="top">
 
 **[🛡️ Darkwave-CyberGuard](https://github.com/yaeboye/Darkwave-CyberGuard)**<br/>
-Cybersecurity tooling and dashboard.<br/>
-`TypeScript` `Security`
+Security toolkit: password strength checker, generator and manager, plus hashing, encryption/decryption, threat detection and security guides.<br/>
+`TypeScript` `React` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[🎉 Weekend Walla](https://github.com/yaeboye/cityspark-events)**<br/>
+Finds weekend events across Indian cities.<br/>
+`TypeScript` `React` `Supabase`
 
 </td>
 </tr>
