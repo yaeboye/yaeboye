@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey,%20I'm%20Satvik%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://github.com/yaeboye">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=QA+%26+Test+Automation+Engineer;Playwright+E2E+%7C+CI+stability;Security+%26+cryptography+tinkerer;Breaking+things+so+users+don't" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SDE+%40+Interioring;Full-stack+TypeScript+on+Cloudflare;QA+%E2%86%92+Test+Automation+%E2%86%92+SDE;Security+%26+cryptography+tinkerer;Breaking+things+so+users+don't" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=yaeboye&color=36bcf7&style=flat-square&label=Profile+views" alt="profile views"/>
