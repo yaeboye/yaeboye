@@ -82,12 +82,14 @@ Cybersecurity tooling and dashboard.<br/>
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yaeboye&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaeboye&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=yaeboye&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaeboye&theme=tokyo-night&hide_border=true&area=true" />
+  <br/><br/>
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaeboye/yaeboye/output/github-snake-dark.svg" />
+    <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/yaeboye/yaeboye/output/github-snake.svg" />
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
