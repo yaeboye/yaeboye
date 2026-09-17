@@ -17,7 +17,7 @@
 - 💼 **Software Development Engineer (intern) at [Interioring](https://interioring.com)**, a marketplace connecting Indian homeowners with interior design pros
 - 🛤️ My path: **Manual QA → Test Automation → SDE**
 - 🧩 Now I ship full-stack features across the Hono API on Cloudflare Workers, the Astro marketplace and the React portal
-- 🔐 On the side: **security & AI research**: side-channel attacks, cryptography from scratch, computer-vision surveillance, and reinforcement learning
+- 🔐 On the side: **security & AI projects**: side-channel attacks, cryptography from scratch, computer-vision surveillance, and reinforcement learning
 
 ### 🏆 Journey at Interioring
 
@@ -62,8 +62,8 @@ Privacy-first hostel security system. YOLOv8 tells people from animals, OpenCV d
 </td>
 <td width="50%" valign="top">
 
-**[🚉 Railway Crowd Management with RL](https://github.com/yaeboye/railway-crowd-rl)** · *research*<br/>
-Code for the paper *Reinforcement Learning for AI-Based Railway Platform Crowd Management*. It simulates a platform and compares Q-Learning, SARSA, Double DQN and PPO. PPO beats the tuned expert rule, and a safety layer cuts crush episodes from 27.5% to ≤2.5% under overload.<br/>
+**[🚉 Railway Crowd Management with RL](https://github.com/yaeboye/railway-crowd-rl)** · *course project*<br/>
+Simulates a crowded railway platform and compares Q-Learning, SARSA, Double DQN and PPO. PPO beats the tuned expert rule, and a safety layer cuts crush episodes from 27.5% to ≤2.5% under overload.<br/>
 `Python` `PPO` `DQN` `Simulation`
 
 </td>
