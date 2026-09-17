@@ -62,7 +62,7 @@ Privacy-first hostel security system. YOLOv8 tells people from animals, OpenCV d
 </td>
 <td width="50%" valign="top">
 
-**[🚉 Railway Crowd Management with RL](https://github.com/yaeboye/railway-crowd-rl)** · *course project*<br/>
+**[🚉 Railway Crowd Management with RL](https://github.com/yaeboye/railway-crowd-rl)**<br/>
 Simulates a crowded railway platform and compares Q-Learning, SARSA, Double DQN and PPO. PPO beats the tuned expert rule, and a safety layer cuts crush episodes from 27.5% to ≤2.5% under overload.<br/>
 `Python` `PPO` `DQN` `Simulation`
 
